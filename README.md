@@ -1,11 +1,5 @@
 # 👋 Hey, I'm Salaheddine KAYOUUH
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Build+with+AI;Empower+through+Data+and+Intelligence;Learn%2C+Automate%2C+Optimize%2C+Repeat&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000)
-
-<div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/f55ea8a0-99db-47bb-96b0-5012390ab5a3" width="100%" />
-</div>
-
 ---
 
 ## 👨🏻‍💻 About Me
