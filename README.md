@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Salaheddine KAYOUUH
+# 👋 Hey, I'm Salaheddine KAYOUH
 
 ---
 
@@ -142,20 +142,20 @@ and real-time exam tracking.
 ## 📈 GitHub Insights
 
 <p align="center">
-<a href="https://github.com/zakariaeyahya">
+<a href="https://github.com/771salameche">
 	<picture>
-	<source srcset="https://github-readme-stats.vercel.app/api?username=zakariaeyahya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=zakariaeyahya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+	<source srcset="https://github-readme-stats.vercel.app/api?username=771salameche&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=771salameche&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
 	</picture>
 </a>
-<a href="https://github.com/zakariaeyahya">
+<a href="https://github.com/771salameche">
 	<picture>
-	<source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaeyahya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaeyahya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+	<source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=771salameche&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=771salameche&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
 	</picture>
 </a>
 
-[![Profile views](https://u8views.com/api/v1/github/profiles/105231126/views/day-week-month-total-count.svg)](https://u8views.com/github/zakariaeyahya)
+[![Profile views](https://u8views.com/api/v1/github/profiles/105231126/views/day-week-month-total-count.svg)](https://u8views.com/github/771salameche)
 </p>
 
 <picture>
